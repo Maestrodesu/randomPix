@@ -1,4 +1,4 @@
-
+[![Disclaimer](src/disclaimer.png)](Disclaimer)
 # randomPix
 
 randomPix is a Python + Ray + Pygame demo that generates and displays an endless stream of random RGB frames in real time.
